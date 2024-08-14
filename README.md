@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KukCair
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning fly
-- 💞️ I’m looking to collaborate on gengenTeam
-- 📫 How to reach me:No way
+- 📫 How to reach me:QQ
 - 😄 Pronouns: KC/KCr
 - ⚡ Fun fact: KukCair 是库库坎尔的错误音译。
 
