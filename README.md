@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fly
 - 💞️ I’m looking to collaborate on gengenTeam
 - 📫 How to reach me:No
-- 😄 Pronouns: sb.
+- 😄 Pronouns: KCr.
 - ⚡ Fun fact: I'm sb.
 
 <!---
