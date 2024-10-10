@@ -2,6 +2,8 @@ Hi, I’m @KukCair .
 
 I’m interested in playing PCL（x）
 
+_Don't leave me drifting out there in the darkness alone._
+
 ---
 
 学习ing：
@@ -10,11 +12,11 @@ I’m interested in playing PCL（x）
 
 - 动态开点线段树、主席树           （  ）
 
+- LCT                            （  ）
+
 - Tarjan 求 LCA                  （  ）
 
 - Johnson                        （  ）
-
-- LCT                            （  ）
 
 ---
 
