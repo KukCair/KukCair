@@ -10,11 +10,11 @@ I’m interested in playing PCL（x）
 
 - 动态开点线段树、主席树           （  ）
 
-- LCT                            （  ）
-
 - Tarjan 求 LCA                  （  ）
 
 - Johnson                        （  ）
+
+- LCT                            （  ）
 
 ---
 
