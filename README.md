@@ -29,10 +29,9 @@ KukCair 是库库坎尔的错误音译。库库坎尔是库库尔坎的错误记
 
 ---
 
-联系方式 QQ & 洛谷 & 邮箱
-
+联系方式 QQ & Luogu & Email
 [My Luogu Account](https://www.luogu.com/767449)
 
 My QQ：3638554850
 
-邮箱（平时不用）：19896253770@163.com
+Email（平时不用）：19896253770@163.com
