@@ -4,7 +4,17 @@ I’m interested in playing PCL（x）
 
 ---
 
-学习树上启发式合并ing
+学习ing：
+
+- 树上启发式合并                  （  ）
+
+- 动态开点线段树、主席树           （  ）
+
+- LCT                            （  ）
+
+- Tarjan 求 LCA                  （  ）
+
+- Johnson                        （  ）
 
 ---
 
